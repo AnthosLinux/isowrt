@@ -9,13 +9,11 @@ Easy way to burn a bootable flash drive with ISO.
 # Install
 
 ```bash
-git clone https://github.com/EdenLinux/isowrt.git
+git clone https://github.com/AnthosLinux/isowrt.git
 cd isowrt
 chmod +x isowrt.sh
 ./isowrt.sh
 ```
-
-**Soon I will make a PKGBUILD file for Arch-based distributions.**
 
 # License
 
